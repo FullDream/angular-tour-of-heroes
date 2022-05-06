@@ -1,3 +1,17 @@
 {
-    "material-icon-theme.activeIconPack": "angular_ngrx"
+  "material-icon-theme.activeIconPack": "angular_ngrx",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  }
 }
